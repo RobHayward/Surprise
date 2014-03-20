@@ -1,0 +1,16 @@
+{
+    "contents" : "\\documentclass[12pt, a4paper, oneside]{article} % Paper size, default font size and one-sided paper\n%\\graphicspath{{./Figures/}} % Specifies the directory where pictures are stored\n%\\usepackage[dcucite]{harvard}\n\\usepackage{rotating}\n\\usepackage{amsmath}\n\\usepackage{setspace}\n\\usepackage{pdflscape}\n\\usepackage[flushleft]{threeparttable}\n\\usepackage{multirow}\n\\usepackage[comma, sort&compress]{natbib}% Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' \n\\usepackage{graphicx}\n%\\bibliographystyle{plainnat}\n\\bibliographystyle{agsm}\n\\usepackage[colorlinks = true, citecolor = blue, linkcolor = blue]{hyperref}\n%\\hypersetup{urlcolor=blue, colorlinks=true} % Colors hyperlinks in blue - change to black if annoying\n%\\renewcommand[\\harvardurl]{URL: \\url}\n\\begin{document}\n\\title{Surprise}\n\\author{Rob Hayward\\footnote{University of Brighton Business School, Lewes Road, Brighton, BN2 4AT; Telephone 01273 642586.  rh49@brighton.ac.uk}}\n\\date{\\today}\n\\maketitle\n%\\begin{abstract}\n%erehrere\n%\\end{abstract}\n\nThis is the starting point for a document that will look at surpise in the financial markets.  There is a document that looks at surprise in a Bayesian fashion in the OS folder. \n\n\\begin{align*}\n\n\n\\end{document}",
+    "created" : 1395324310723.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "584927376",
+    "id" : "857D3D04",
+    "lastKnownWriteTime" : 1395324602,
+    "path" : "C:/Users/rh49/Projects/Surprise/Knitr/Surprse.Rnw",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "sweave"
+}
